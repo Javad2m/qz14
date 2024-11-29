@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\services\\cardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\services\\cardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\contract\\icardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\contract\\icardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\services\\actionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\services\\actionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\contract\\iactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\contract\\iactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\entity\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\entity\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\contract\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\contract\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\services\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\services\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\contract\\itransactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\contract\\itransactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\entity\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\entity\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|c:\\users\\notebook\\desktop\\qz - 14\\qz14\\qz14\\contract\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09298800-41F0-4FDE-8EB2-6B3EE14C5BF7}|QZ14\\QZ14.csproj|solutionrelative:qz14\\contract\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Contract\\ICardRepository.cs",
+              "RelativeDocumentMoniker": "QZ14\\Contract\\ICardRepository.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Contract\\ICardRepository.cs",
+              "RelativeToolTip": "QZ14\\Contract\\ICardRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:23:04.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Entity\\Card.cs",
+              "RelativeDocumentMoniker": "QZ14\\Entity\\Card.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Entity\\Card.cs",
+              "RelativeToolTip": "QZ14\\Entity\\Card.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:34:53.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IActionServices.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Contract\\IActionServices.cs",
+              "RelativeDocumentMoniker": "QZ14\\Contract\\IActionServices.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Contract\\IActionServices.cs",
+              "RelativeToolTip": "QZ14\\Contract\\IActionServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:01:21.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActionServices.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Services\\ActionServices.cs",
+              "RelativeDocumentMoniker": "QZ14\\Services\\ActionServices.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Services\\ActionServices.cs",
+              "RelativeToolTip": "QZ14\\Services\\ActionServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:28:21.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Program.cs",
+              "RelativeDocumentMoniker": "QZ14\\Program.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Program.cs",
+              "RelativeToolTip": "QZ14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:55:33.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICardServices.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Contract\\ICardServices.cs",
+              "RelativeDocumentMoniker": "QZ14\\Contract\\ICardServices.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Contract\\ICardServices.cs",
+              "RelativeToolTip": "QZ14\\Contract\\ICardServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:03:57.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Repository\\CardRepository.cs",
+              "RelativeDocumentMoniker": "QZ14\\Repository\\CardRepository.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Repository\\CardRepository.cs",
+              "RelativeToolTip": "QZ14\\Repository\\CardRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:38:42.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardServices.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Services\\CardServices.cs",
+              "RelativeDocumentMoniker": "QZ14\\Services\\CardServices.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Services\\CardServices.cs",
+              "RelativeToolTip": "QZ14\\Services\\CardServices.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:42:42.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITransactionServices.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Contract\\ITransactionServices.cs",
+              "RelativeDocumentMoniker": "QZ14\\Contract\\ITransactionServices.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Contract\\ITransactionServices.cs",
+              "RelativeToolTip": "QZ14\\Contract\\ITransactionServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:13:17.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionServices.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Services\\TransactionServices.cs",
+              "RelativeDocumentMoniker": "QZ14\\Services\\TransactionServices.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Services\\TransactionServices.cs",
+              "RelativeToolTip": "QZ14\\Services\\TransactionServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:12:57.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Repository\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "QZ14\\Repository\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Repository\\TransactionRepository.cs",
+              "RelativeToolTip": "QZ14\\Repository\\TransactionRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:11:27.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Entity\\Transaction.cs",
+              "RelativeDocumentMoniker": "QZ14\\Entity\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Entity\\Transaction.cs",
+              "RelativeToolTip": "QZ14\\Entity\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:09:28.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Contract\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "QZ14\\Contract\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\QZ - 14\\QZ14\\QZ14\\Contract\\ITransactionRepository.cs",
+              "RelativeToolTip": "QZ14\\Contract\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:08:38.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
